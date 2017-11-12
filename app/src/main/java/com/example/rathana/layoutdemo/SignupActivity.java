@@ -13,5 +13,7 @@ public class SignupActivity extends AppCompatActivity {
 
     public void authorization(){}
 
-    
+    public void processSignup(){
+
+    }
 }
